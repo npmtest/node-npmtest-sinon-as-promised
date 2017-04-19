@@ -1,4 +1,7 @@
-# test coverage for  [sinon-as-promised (v4.0.3)](https://github.com/bendrucker/sinon-as-promised)  [![npm package](https://img.shields.io/npm/v/npmtest-sinon-as-promised.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sinon-as-promised) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sinon-as-promised.svg)](https://travis-ci.org/npmtest/node-npmtest-sinon-as-promised)
+# npmtest-sinon-as-promised
+
+#### basic test coverage for  [sinon-as-promised (v4.0.3)](https://github.com/bendrucker/sinon-as-promised)  [![npm package](https://img.shields.io/npm/v/npmtest-sinon-as-promised.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sinon-as-promised) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sinon-as-promised.svg)](https://travis-ci.org/npmtest/node-npmtest-sinon-as-promised)
+
 #### Sugar methods for using sinon.js stubs with promises
 
 [![NPM](https://nodei.co/npm/sinon-as-promised.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sinon-as-promised)
